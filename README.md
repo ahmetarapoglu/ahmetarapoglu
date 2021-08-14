@@ -1,6 +1,6 @@
 ### I'm Ahmet Arapoglu 👋
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![LikedIn](http://unmaintained.tech/badge.svg)](https://www.linkedin.com/in/aiar7b/)
+
 
 
 ### About Me:
