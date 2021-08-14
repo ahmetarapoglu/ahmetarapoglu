@@ -26,6 +26,22 @@
 </ul>
 
 
+<h1>About Me:</h1>
+<p>A person who looking for a peaceful society and a peaceful life for everyone. I hope to help every person who needs help and support them and I like to work with other people and share them my knowledge and experiences.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetarapoglu&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetarapoglu" /> </p>
+
+<h1 align="left">Connect with me:</h1>
+<p align="left">
+<a href="https://linkedin.com/in/aiar7b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiar7b" height="30" width="40" /></a>
+<a href="https://fb.com/ahmadihab.arab.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadihab.arab.1" height="30" width="40" /></a>
+<a href="https://instagram.com/a.i.ar7b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.i.ar7b" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetarapoglu&show_icons=true&locale=en&layout=compact" alt="ahmetarapoglu" /></p>
 
 
