@@ -1,8 +1,5 @@
 <h1>Hi 👋, I'm Ahmet Arapoglu </h1>
-<p>
-  <a href="#" rel="nofollow"><img src="https://camo.githubusercontent.com/7943540cd828bdff3bf0d13d8e2c8158e66c7a96b02e6c479f2f353a6ca91798/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d4167686561642d416c62616c6b6865267374796c653d666f722d7468652d62616467652675726c3d68747470733a2f2f616768796164616c62616c6b68692d706f7274666f6c696f2e6865726f6b756170702e636f6d" alt="Portfolio" data-canonical-src="https://img.shields.io/website?label=1111&amp;style=for-the-badge&amp;url=https://www.linkedin.com/in/aiar7b/" style="max-width:100%;">
-  </a>
-</p>
+
 <h1>About Me:</h1>
 <h3 align="center">A person who looking for a peaceful society and a peaceful life for everyone. I hope to help every person who needs help and support them and I like to work with other people and share them my knowledge and experiences.</h3>
 
