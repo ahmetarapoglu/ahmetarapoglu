@@ -22,7 +22,7 @@
 <ul>
 <li>Backend developer (Asp.NET Core Wep Api)</li>
 <li>Frontend developer (Html,Css,JScript,React,,Next js,AntDesgin,Tailwind,Bootstrap) </li>
-<li>AI (DeepLearning - Machine Learning)(Python)</li>
+<li>AI (DeepLearning - Machine Learning) (Python)</li>
 </ul>
 
 
