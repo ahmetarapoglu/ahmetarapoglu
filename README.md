@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Ahmet Arapoglu </h2>
+<h2>Hi 👋, I'm Ahmet Arap </h2>
 
 <h2>About Me:</h2>
 <i>A person who looking for a peaceful society and a peaceful life for everyone. I hope to help every person who needs help and support them and I like to work with other people and share them my knowledge and experiences.</i>
